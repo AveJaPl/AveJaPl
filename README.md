@@ -5,7 +5,7 @@
 
 
 
-- 💻 I’m currently learning **MERN, C#, .NET, Python, ML**
+- 💻 I’m currently learning **MERN ,NEXT, Python, ML**
 
 - 👨‍💻 All of my projects are available at [coming soon :)](coming soon :))
 
