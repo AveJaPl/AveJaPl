@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **MERN ,NEXT, Python, ML**
 
-- 👨‍💻 All of my projects are available at [coming soon :)](coming soon :))
+- 👨‍💻 All of my projects are available at [Projects](https://filip-piatek.netlify.app/projects)
 
 - 📫 How to reach me **filip.piatek2005@gmail.com**
 
